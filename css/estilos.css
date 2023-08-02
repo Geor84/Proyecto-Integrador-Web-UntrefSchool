@@ -214,4 +214,7 @@ main{
         display: block;
     }
 
+    h1{
+        font-size:larger;
+    }
 }
